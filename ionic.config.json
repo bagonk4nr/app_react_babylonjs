@@ -1,0 +1,7 @@
+{
+  "name": "app-babylon-twisted",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
